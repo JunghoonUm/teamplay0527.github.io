@@ -44,6 +44,8 @@ K-평균은 데이터를 **K개의 그룹(클러스터)**로 나누어, 각 그�
 
 - 임의로 K개의 중심점을 선택합니다.
 
+- ![image](https://github.com/user-attachments/assets/8db04fd6-52fa-42dc-b39e-a74d531986bc)
+
 ② 군집 할당 (Assignment)
 
 - 각 데이터 포인트를 가장 가까운 중심점에 할당합니다.  
